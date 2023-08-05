@@ -1,0 +1,20 @@
+import java.util.*;
+class practice1
+{
+	public Static void main(String[]args)
+	{
+		int a;
+		Scanner s= new Scanner(System.in);
+		System.out.println("enter the number");
+		a = s.nextInt();
+		Switch(a)
+		{
+			case 1: System.out.println("yeah");
+			break;
+			default : System.out.println("siuu");
+			break;
+			case a: System.out.println("ankara");
+			break:
+		}
+	}
+}
